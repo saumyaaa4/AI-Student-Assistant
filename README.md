@@ -168,7 +168,7 @@ https://ai-student-assistant-xgggejhqswziacycxghgej.streamlit.app/
 ## 👩‍💻 Author
 
 **Saumya Bhagat**
-B.Tech Student | Aspiring Data Analyst
+B.Tech Student | AI/ML Enthusiast
 
 ---
 
