@@ -1,0 +1,3 @@
+streamlit
+openai
+httpx==0.27.0
