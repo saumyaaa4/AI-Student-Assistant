@@ -1,0 +1,18 @@
+{"user": "python", "bot": "Python is a powerful programming language used in web development, AI, and data science."}
+{"user": "hi", "bot": "Sorry, I can only answer questions related to programming, AI/ML, career, or interviews."}
+{"user": "ai", "bot": "Artificial Intelligence enables machines to mimic human intelligence like learning and problem-solving."}
+{"user": "Explain OOP concepts in Java", "bot": "\n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"}
+{"user": "Explain OOP concepts in Java", "bot": "Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"}
+{"user": "Explain OOP concepts in Java", "bot": "Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"}
+{"user": "Explain OOP concepts in Java", "bot": "OOP concepts include Encapsulation, Inheritance, Polymorphism, and Abstraction."}
+{"user": "explain java", "bot": "OOP concepts include Encapsulation, Inheritance, Polymorphism, and Abstraction."}
+{"user": "what is java", "bot": "OOP concepts include Encapsulation, Inheritance, Polymorphism, and Abstraction."}
+{"user": "what is java", "bot": "OOP concepts include Encapsulation, Inheritance, Polymorphism, and Abstraction."}
+{"user": "what is ML", "bot": "I'm having trouble connecting to AI right now, but I can still help with basic topics."}
+{"user": "What is machine learning?", "bot": "Machine Learning is a subset of Artificial Intelligence where computers learn from data and improve their performance without being explicitly programmed."}
+{"user": "How to become a data analyst?", "bot": "To become a Data Analyst, you should learn Python, SQL, Excel, and visualization tools like Power BI or Tableau. Building projects is very important."}
+{"user": "what is AI", "bot": "Artificial Intelligence refers to machines designed to mimic human intelligence, such as learning, reasoning, and problem-solving."}
+{"user": "How to become data analyst?", "bot": "To become a Data Analyst, you should learn Python, SQL, Excel, and visualization tools like Power BI or Tableau. Building projects is very important."}
+{"user": "Explain Python basics", "bot": "Python is a high-level programming language known for its simplicity and readability. It is widely used in web development, data science, AI, and automation."}
+{"user": "Interview tips for freshers", "bot": "Prepare by practicing DSA, revising core subjects, and doing mock interviews. Also prepare HR questions like strengths and weaknesses."}
+{"user": "What is machine learning?", "bot": "Machine Learning is a subset of Artificial Intelligence where computers learn from data and improve their performance without being explicitly programmed."}
