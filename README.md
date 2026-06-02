@@ -150,10 +150,9 @@ client = OpenAI(api_key="YOUR_API_KEY")
 
 ---
 
-## 🎥 Demo
+## 🎥 Live Link
 
-(Add your demo video link here)
-
+https://ai-student-assistant-xgggejhqswziacycxghgej.streamlit.app/
 ---
 
 ## 🏆 Key Highlights
